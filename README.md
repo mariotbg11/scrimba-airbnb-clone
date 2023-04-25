@@ -1,4 +1,4 @@
-# Multipage Website Final Project Frontend Developer Course Progate Indonesia
+# Scrimba AirBnb Clone
 
 This project was created following a React course from Scrimba by Bob Ziroll [Learn React](https://scrimba.com/learn/learnreact).
 
